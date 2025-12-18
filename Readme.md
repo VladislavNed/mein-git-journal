@@ -3,9 +3,9 @@
 
 Für jeden Commit speichert das System drei Dinge.
 
-1. **was** wurde geändert (z.B. Zeile 5 im Dokument wurde gelöscht, und eine andere hinzugefügt).
-2. **wer** hat es geändert(Benutzername der Person).
-3. **warum** wurde es geändert (Der Entwickler schreibt eine kurze Nachricht, z.B. "Rechtschreibfehler im Vorwort korrigiert).<br>
+1. **Was** wurde geändert (z.B. Zeile 5 im Dokument wurde gelöscht, und eine andere hinzugefügt).
+2. **Wer** hat es geändert(Benutzername der Person).
+3. **Warum** wurde es geändert (Der Entwickler schreibt eine kurze Nachricht, z.B. "Rechtschreibfehler im Vorwort korrigiert).<br>
 
 Dadurch entszteht eine lückenlose, nachvollziehbare Geschichte des gesamten Projekts. Du kannst jederzeit Zurückblicken und jede einzellne Änderung seit Projektbeginn sehen. <br>
 
